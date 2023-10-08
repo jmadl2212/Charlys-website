@@ -1,0 +1,88 @@
+
+#hi {
+    font-size: 75px;
+    font-family: "Licorice", cursive;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.testimonials {
+    color:aliceblue;
+    padding-top: 25px;
+    font-family: "Montserrat", sans-serif;
+}
+#canyon {
+    display: block;
+    height: 200px;
+    width: 400px;
+    object-fit: cover;
+    margin: 25px auto 25px auto;
+    box-shadow: 0px 15px 30px -11px hsla(211, 19%, 23%, 0.5);
+}
+
+.skills {
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.mission-statement {
+    background-color: #9EDDFF;
+    color: #22668D;
+    margin: 0;
+}
+
+.singing-bowl {
+    display: block;
+    margin: 25px auto 25px auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    box-shadow: 0px 15px 30px -11px hsla(211, 19%, 23%, 0.5);
+
+}
+
+.turtle {
+    display: block;
+    margin: 25px auto 25px auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    box-shadow: 0px 15px 30px -11px hsla(211, 19%, 23%, 0.5);
+}
+
+.bonsai {
+    display: block;
+    margin: 25px auto 25px auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%; 
+    box-shadow: 0px 15px 30px -11px hsla(211, 19%, 23%, 0.5);
+}
+
+.zen-garden {
+    display: block;
+    margin: 25px auto 25px auto;
+    height: 200px;
+    width: 300px;
+    box-shadow: 0px 15px 30px -11px hsla(211, 19%, 23%, 0.5); 
+}
+
+.container3 {
+    background-color: #9EDDFF;
+}
+
+.container4 {
+    background-color: #22668D;
+}
+
+.copywrite {
+    color: aliceblue;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
