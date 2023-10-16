@@ -6,13 +6,19 @@
 }
 
 h3 {
-    text-align: center;
+    text-align: left;
+    padding-top: 25px;
     margin-bottom: 25px;
     font-family: "Montserrat", sans-serif;
 }
 
+span {
+    color: rgb(252, 252, 141);
+}
+
 .testimonials {
     color:aliceblue;
+    text-align: center;
     padding-top: 25px;
     font-family: "Montserrat", sans-serif;
 }
@@ -81,6 +87,12 @@ h3 {
     background-color: #22668D;
 }
 
+.container5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9EDDFF;
+}
 .copywrite {
     color: aliceblue;
     text-align: center;
